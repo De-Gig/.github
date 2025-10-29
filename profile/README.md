@@ -1,6 +1,6 @@
 ### **📌 Defining the DeGig Organization**  
 
-**DeGig** is an innovative **Web3 freelance and gig economy platform** leveraging **Solana blockchain, Rust, WASM, and decentralized technologies** to provide **secure, transparent, and efficient** work contracts between freelancers and clients.  
+**DeGig** is an innovative **Web3 freelance and gig economy platform** leveraging **blockchain, FlexNet Family Architecture w/ Rust, WASM, and decentralized technologies** to provide **secure, transparent, and efficient** work contracts between freelancers and clients.  
 
 #### **🌟 Core Goals**  
 - **Decentralized Gig Marketplace** – Enable seamless transactions between freelancers and clients.  
